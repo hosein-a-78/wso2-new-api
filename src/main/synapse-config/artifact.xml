@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artifacts><artifact name="newApi" type="synapse/api" serverRole="EnterpriseServiceBus" groupId="newProject" version="1.0-SNAPSHOT"><file>api\newApi.xml</file></artifact></artifacts>
